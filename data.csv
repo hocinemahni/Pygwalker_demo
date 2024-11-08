@@ -1,0 +1,6 @@
+timestamp,salesAmount,unitsSold,productCategory,storeLocation
+804,500,5,Electronics,Paris
+2021,1500,10,Clothing,Berlin
+2190,700,7,Electronics,Paris
+2856,1200,12,Groceries,Lyon
+5678,800,8,Clothing,Berlin
