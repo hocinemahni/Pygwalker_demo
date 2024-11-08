@@ -13,7 +13,7 @@ Install Pygwalker with:
 pip install pygwalker
 
 
-Usage
+## Usage
 1 Place your data in a CSV file (e.g., data.csv).
 
 2 Open demo.ipynb and run the code to load and explore the data.
